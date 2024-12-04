@@ -19,7 +19,6 @@ a {
 header img {
     width: 175px;
     height: 175px;
-    border-radius: 250%;
     border: 2px solid salmon;
 }
 
@@ -34,6 +33,7 @@ h1{
 h6{
     color: red;
 }
+
 footer img {
     width: 40px;
     height: 40px;
